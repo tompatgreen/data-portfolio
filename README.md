@@ -7,7 +7,7 @@ Focused on turning data into actionable business insights.
 
 ## Projects
 
-* Project 1: Sales Analysis (SQL + Excel) *(in progress)*
+* Project 1: Sales Analysis (SQL + Excel)
 * Project 2: Dashboard Project *(coming soon)*
 * Project 3: Flagship Case Study *(coming soon)*
 
