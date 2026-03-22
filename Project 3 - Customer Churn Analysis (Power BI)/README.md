@@ -36,7 +36,8 @@ This dashboard explores customer churn across multiple dimensions:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Churn.png)(Churn Filtered.png)
+![Dashboard](Churn.png)
+![Dashboard](Churn Filtered.png)
 
 ---
 
