@@ -32,7 +32,7 @@ The dataset contains transactional sales data, including:
 - **Technology** is the most profitable category ($145K), while **Furniture significantly underperforms** ($18K)  
 - Higher discounts have a strong negative impact on profitability, with discounts above 40% resulting in losses
 - ### 📊 Category Performance
-![Category Performance](SQL.png)
+![Category Performance](Category.png)
 
 ---
 
