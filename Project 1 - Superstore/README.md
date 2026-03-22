@@ -47,7 +47,6 @@ The dataset contains transactional sales data, including:
 
 ## 🛠 Tools Used
 - SQL (data querying and analysis)
-- Excel / Power BI (data visualisation, if applicable)
 
 ---
 
