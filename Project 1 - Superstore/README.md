@@ -30,7 +30,9 @@ The dataset contains transactional sales data, including:
 - The **Canon imageCLASS 2200 Advanced Copier** is the highest-performing product, generating over $61K in sales  
 - Sales fluctuate significantly month-to-month, with noticeable peaks indicating seasonality  
 - **Technology** is the most profitable category ($145K), while **Furniture significantly underperforms** ($18K)  
-- Higher discounts have a strong negative impact on profitability, with discounts above 40% resulting in losses  
+- Higher discounts have a strong negative impact on profitability, with discounts above 40% resulting in losses
+- ### 📊 Category Performance
+![Category Performance](SQL.png)
 
 ---
 
