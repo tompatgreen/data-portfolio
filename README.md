@@ -26,7 +26,7 @@ and Power BI, with a focus on extracting actionable business insights.
 - Prices show consistent upward growth since 1970, accelerating post-2000
 - Growth rates vary significantly by region
 
-![Dashboard](Project%202%20-%20UK%20Housing%20Analysis%20(Power%20BI)/screenshot.png)
+![Dashboard](Project%202%20-%20UK%20Housing%20Analysis%20(Power%20BI)/uk_housing_dashboard.png)
 
 ---
 
