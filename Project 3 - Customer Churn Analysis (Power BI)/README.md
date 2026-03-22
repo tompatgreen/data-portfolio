@@ -22,9 +22,13 @@ This dashboard explores customer churn across multiple dimensions:
 ---
 
 ## 🔍 Key Insights
-- Customers on **month-to-month contracts** have the highest churn rates
-- **New customers** are significantly more likely to churn
-- Customers with **higher monthly charges** tend to churn more
+- Overall churn rate: **26.54%** (1,869 of 7,043 customers lost)
+- Month-to-month customers churn at ~**42%** — significantly higher than 
+  one-year or two-year contract holders
+- New customers are most at risk — churn exceeds **45%** in the lowest 
+  tenure bracket, dropping steadily with loyalty
+- Churn increases as monthly charges rise, with the highest rates seen 
+  above $60/month
 
 ---
 
