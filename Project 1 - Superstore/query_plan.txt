@@ -1,8 +1,0 @@
-1. What is the total sales value? → Sales
-2. Which region generates the most revenue? → Sales, Region
-3. Who are the top 10 customers by sales? → Sales, Customer Name
-4. Which products have the highest sales? → Sales, Product Name
-5. What is the monthly sales trend? → Sales, Order Date
-6. Which customer segment generates the most profit? → Profit, Segment
-7. Which product category has the highest total profit? → Profit, Category
-8. How does discount impact profit? → Discount, Profit
