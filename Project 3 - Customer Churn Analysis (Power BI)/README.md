@@ -1,94 +1,47 @@
-\# 📊 Customer Churn Analysis (Power BI)
+# 📊 Customer Churn Analysis (Power BI)
 
-
-
-\## 📌 Objective
-
+## 📌 Objective
 The goal of this project is to analyse customer churn behaviour and identify key factors driving customer loss.
 
+---
 
+## 📂 Dataset
+- Source: IBM Telco Customer Churn dataset
+- Includes: customer demographics, contract type, tenure, and monthly charges
 
-\---
+---
 
-
-
-\## 📂 Dataset
-
-\- Source: IBM Telco Customer Churn dataset
-
-\- Includes: customer demographics, contract type, tenure, and monthly charges
-
-
-
-\---
-
-
-
-\## 📊 Dashboard Overview
-
+## 📊 Dashboard Overview
 This dashboard explores customer churn across multiple dimensions:
 
+- Churn by contract type
+- Churn by tenure
+- Churn by monthly charges
+- Interactive filtering by internet service
 
+---
 
-\- Churn by contract type
+## 🔍 Key Insights
+- Customers on **month-to-month contracts** have the highest churn rates
+- **New customers** are significantly more likely to churn
+- Customers with **higher monthly charges** tend to churn more
 
-\- Churn by tenure
+---
 
-\- Churn by monthly charges
+## 🛠 Tools Used
+- Power BI
+- DAX (for churn rate calculation)
+- Data modelling & visualisation
 
-\- Interactive filtering by internet service
+---
 
+## 📷 Dashboard Preview
+![Dashboard](Churn.png)
 
+---
 
-\---
-
-
-
-\## 🔍 Key Insights
-
-\- Customers on \*\*month-to-month contracts\*\* have the highest churn rates
-
-\- \*\*New customers\*\* are significantly more likely to churn
-
-\- Customers with \*\*higher monthly charges\*\* tend to churn more
-
-
-
-\---
-
-
-
-\## 🛠 Tools Used
-
-\- Power BI
-
-\- DAX (for churn rate calculation)
-
-\- Data modelling \& visualisation
-
-
-
-\---
-
-
-
-\## 📷 Dashboard Preview
-
-!\[Dashboard](Churn.png)
-
-
-
-\---
-
-
-
-\## 🚀 Outcome
-
+## 🚀 Outcome
 This project demonstrates the ability to:
-
-\- Analyse customer behaviour
-
-\- Identify key business risks
-
-\- Communicate insights through dashboards
-
+- Analyse customer behaviour
+- Identify key business risks
+- Communicate insights through dashboards
