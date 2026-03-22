@@ -25,10 +25,15 @@ This Power BI dashboard provides:
 ---
 
 ## 📈 Key Insights
-- UK house prices show a consistent upward trend over time
-- London regions (e.g. Kensington, Camden) have the highest property prices
-- All regions demonstrate growth, but at varying rates
-- Certain regions show significantly stronger growth trends than others
+- Average UK house price: **£307,960**
+- **Kensington & Chelsea** is the most expensive region, followed by Camden 
+  and City of Westminster
+- Prices have risen consistently since 1970, with the sharpest acceleration 
+  post-2000
+- Top 5 regions (Kensington, Camden, Westminster, Hammersmith, City of London) 
+  all exceed £1M average by 2023
+- Growth rates vary significantly — outer London and regional areas lag 
+  considerably behind prime London
 
 ---
 
