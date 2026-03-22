@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio – Tom Patgreen
+# 📊 Data Analytics Portfolio – Tom Green
 
 A collection of data analytics projects demonstrating skills in SQL, Excel, and Power BI, with a focus on extracting insights and building clear, business-focused dashboards.
 
