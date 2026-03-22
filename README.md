@@ -43,7 +43,7 @@ and Power BI, with a focus on extracting actionable business insights.
   in the earliest tenure bracket
 - Churn increases as monthly charges rise
 
-![Dashboard](Project%203%20-%20Customer%20Churn%20Analysis%20(Power%20BI)/churn.png)
+![Dashboard](Project%203%20-%20Customer%20Churn%20Analysis%20(Power%20BI)/Churn.png)
 
 ---
 
